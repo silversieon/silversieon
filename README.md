@@ -1,4 +1,4 @@
-<h2 align="center"> silversieon </h2>
+<h2 align="center"> ⭐silversieon⭐ </h2>
 
 <div align="center">
   <a href="https://solved.ac/sean0503/">
