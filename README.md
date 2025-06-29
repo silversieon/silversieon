@@ -3,8 +3,9 @@
 <p align="center">
    
    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sean0503)](https://solved.ac/sean0503/)
-   
+
 </p>
+
 <h2 align="center"> 📈 GitHub Stats 📈 </h2>
 
 <p align="center">
