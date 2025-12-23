@@ -1,1 +1,1 @@
-![badge](./chat.svg)
+<!--![badge](./chat.svg) -->
