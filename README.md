@@ -1,7 +1,7 @@
 <!-- 상단 물결 헤더 -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF6FD8&height=200&section=header&text=호기심에%20머무르지%20않고&fontSize=40&fontAlignY=35&fontColor=ffffff&desc=끊임없는%20탐구를%20추구합니다&descAlignY=58&descSize=20&descColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF6FD8&height=150&section=header&text=호기심에%20머무르지%20않고&fontSize=28&fontAlignY=38&fontColor=ffffff&desc=끊임없는%20탐구를%20추구합니다&descAlignY=62&descSize=16&descColor=ffffff&animation=fadeIn)
 
 </div>
 
